@@ -1,0 +1,2 @@
+python-ffmpeg==1.0.14
+log21==2.3.10
